@@ -5,6 +5,7 @@ This repository contains my Java learning journey.
 ## Topics Covered
 
 * Arrays
+* loops
 
 ## Goal
 
