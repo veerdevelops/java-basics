@@ -6,6 +6,7 @@ This repository contains my Java learning journey.
 
 * Arrays
 * loops-> if else , else if
+* switch case
 
 
 ## Goal
